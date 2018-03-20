@@ -11,7 +11,7 @@
     "maximize",
     "fullscreen"
   ],
-  "repository": "https://github.com/keskiju/atom-auto-resize",
+  "repository": "https://github.com/keskiju/atom-auto-docks",
   "license": "MIT",
   "engines": {
     "atom": ">=1.21.0 <2.0.0"
