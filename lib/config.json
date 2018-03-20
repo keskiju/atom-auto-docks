@@ -8,7 +8,7 @@
   "toggleRightDock": {
     "title": "Toggle right dock",
     "type": "boolean",
-    "default": true,
+    "default": false,
     "order": 1
   },
   "toggleBottomDock": {
