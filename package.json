@@ -1,7 +1,7 @@
 {
   "name": "atom-auto-docks",
   "main": "./lib/atom-auto-docks",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Keep Atom window minimal by toggling docks automatically when Atom is maximized or set to fullscreen mode.",
   "keywords": [
     "atom",
