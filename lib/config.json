@@ -1,0 +1,20 @@
+{
+  "toggleLeftDock": {
+    "title": "Toggle left dock",
+    "type": "boolean",
+    "default": true,
+    "order": 0
+  },
+  "toggleRightDock": {
+    "title": "Toggle right dock",
+    "type": "boolean",
+    "default": true,
+    "order": 1
+  },
+  "toggleBottomDock": {
+    "title": "Toggle bottom dock",
+    "type": "boolean",
+    "default": false,
+    "order": 2
+  }
+}
