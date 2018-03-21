@@ -8,13 +8,13 @@
   "toggleRightDock": {
     "title": "Toggle right dock",
     "type": "boolean",
-    "default": false,
+    "default": true,
     "order": 1
   },
   "toggleBottomDock": {
     "title": "Toggle bottom dock",
     "type": "boolean",
-    "default": false,
+    "default": true,
     "order": 2
   }
 }
