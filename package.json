@@ -6,8 +6,11 @@
   "keywords": [
     "atom",
     "auto",
+    "hide",
     "docks",
     "toggle",
+    "minimal",
+    "minimize",
     "maximize",
     "fullscreen"
   ],
