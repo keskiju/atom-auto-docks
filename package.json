@@ -1,7 +1,7 @@
 {
   "name": "atom-auto-docks",
   "main": "./lib/atom-auto-docks",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Keep Atom window minimal by hiding docks automatically when Atom is set to non-maximized mode.",
   "keywords": [
     "atom",
